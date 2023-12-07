@@ -1,0 +1,21 @@
+html {
+	box-sizing: border-box;
+	font-size: 62.5%;
+}
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+body {
+	font-family: sans-serif;
+	font-size: 1.6rem;
+	line-height: 2;
+	margin: 0;
+	padding: 0;
+}
+.container {
+	max-width: 120rem;
+	width: 90%;
+	margin: 0 auto;
+}
